@@ -1,0 +1,50 @@
+[
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "November 8, 2022",
+		"status": "expired"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "November 4, 2022",
+		"status": "active"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "October 25, 2022",
+		"status": "expired"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "October 21, 2022",
+		"status": "expired"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "October 19, 2022",
+		"status": "active"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "October 16, 2022",
+		"status": "active"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's",
+		"buying_date": "October 14, 2022",
+		"status": "expired"
+	},
+	{
+		"thumbnail": "./dresses/aayat/1.jpg",
+		"title": "Top's?",
+		"buying_date": "October 11, 2022",
+		"status": "active"
+	}
+]
